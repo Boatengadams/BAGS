@@ -1,57 +1,33 @@
-# BAGS Java Practice Projects
+# BAGS Java Practice Path
 
-A collection of Java practice programs covering arrays, loops, methods, console games, and object-oriented programming.
+This is one Java project arranged as a step-by-step practice course. Start with input and output, then move through decisions, loops, arrays, collections, and object-oriented programming before building the restaurant ordering capstone.
 
-Source files are under `src/`; Java package declarations match their folder paths.
-The individual repositories are listed below. Repositories with shared types include the support sources needed to compile independently.
+## Start here
 
-## Individual class repositories
+Open the [practice guide](practice/README.md) and follow the levels in order. Each task gives you a prompt, a reference example under `src/`, and a checklist. Try the task before reading its reference code.
 
-- [`Adams`](https://github.com/Boatengadams/Adams) — `src/Adams.java`
-- [`AnonymousArrays`](https://github.com/Boatengadams/AnonymousArrays) — `src/Arrays/AnonymousArrays.java`
-- [`ArrayEnterByUser`](https://github.com/Boatengadams/ArrayEnterByUser) — `src/Arrays/Class/ArrayEnterByUser.java`
-- [`ComparingArrays`](https://github.com/Boatengadams/ComparingArrays) — `src/Arrays/Class/ComparingArrays.java`
-- [`EqualsMethodPasswordCheck`](https://github.com/Boatengadams/EqualsMethodPasswordCheck) — `src/Arrays/Class/EqualsMethodPasswordCheck.java`
-- [`PointArrayEnterByUSer`](https://github.com/Boatengadams/PointArrayEnterByUSer) — `src/Arrays/Class/PointArrayEnterByUSer.java`
-- [`PrintingOFArrays`](https://github.com/Boatengadams/PrintingOFArrays) — `src/Arrays/Class/PrintingOFArrays.java`
-- [`SearchingArray`](https://github.com/Boatengadams/SearchingArray) — `src/Arrays/Class/SearchingArray.java`
-- [`SortingArray`](https://github.com/Boatengadams/SortingArray) — `src/Arrays/Class/SortingArray.java`
-- [`VariableLenghArguement`](https://github.com/Boatengadams/VariableLenghArguement) — `src/Arrays/Class/VariableLenghArguement.java`
-- [`ArrayListInJava`](https://github.com/Boatengadams/ArrayListInJava) — `src/Arrays/List/ArrayListInJava.java`
-- [`ForEachLoop`](https://github.com/Boatengadams/ForEachLoop) — `src/Arrays/List/ForEachLoop.java`
-- [`Menu`](https://github.com/Boatengadams/Menu) — `src/Arrays/List/Menu.java`
-- [`UniqueListSort`](https://github.com/Boatengadams/UniqueListSort) — `src/Arrays/List/UniqueListSort.java`
-- [`PassingArrayToMethods`](https://github.com/Boatengadams/PassingArrayToMethods) — `src/Arrays/PassingArrayToMethods.java`
-- [`_2DArrays`](https://github.com/Boatengadams/_2DArrays) — `src/Arrays/TwoDimension/_2DArrays.java`
-- [`StringFormat`](https://github.com/Boatengadams/StringFormat) — `src/Concatenation/StringFormat.java`
-- [`TemplateLiteral`](https://github.com/Boatengadams/TemplateLiteral) — `src/Concatenation/TemplateLiteral.java`
-- [`CheeseGame`](https://github.com/Boatengadams/CheeseGame) — `src/Console/CheeseGame.java`
-- [`GamingConsole`](https://github.com/Boatengadams/GamingConsole) — `src/Console/GamingConsole.java`
-- [`Console-Main`](https://github.com/Boatengadams/Console-Main) — `src/Console/Main.java`
-- [`MarioGame`](https://github.com/Boatengadams/MarioGame) — `src/Console/MarioGame.java`
-- [`EvenNumbers`](https://github.com/Boatengadams/EvenNumbers) — `src/Loop/EvenNumbers.java`
-- [`Fibonacci`](https://github.com/Boatengadams/Fibonacci) — `src/Loop/Fibonacci.java`
-- [`NumberCheckWhenExceed100`](https://github.com/Boatengadams/NumberCheckWhenExceed100) — `src/Loop/NumberCheckWhenExceed100.java`
-- [`PalindromeString`](https://github.com/Boatengadams/PalindromeString) — `src/Loop/PalindromeString.java`
-- [`PrimeNumbers`](https://github.com/Boatengadams/PrimeNumbers) — `src/Loop/PrimeNumbers.java`
-- [`ReverseOfString`](https://github.com/Boatengadams/ReverseOfString) — `src/Loop/ReverseOfString.java`
-- [`Star`](https://github.com/Boatengadams/Star) — `src/Loop/Star.java`
-- [`StrictDivisors`](https://github.com/Boatengadams/StrictDivisors) — `src/Loop/StrictDivisors.java`
-- [`StringWithSPace`](https://github.com/Boatengadams/StringWithSPace) — `src/Loop/StringWithSPace.java`
-- [`SumOfDigit`](https://github.com/Boatengadams/SumOfDigit) — `src/Loop/SumOfDigit.java`
-- [`SumOfValues`](https://github.com/Boatengadams/SumOfValues) — `src/Loop/SumOfValues.java`
-- [`nestedLoop`](https://github.com/Boatengadams/nestedLoop) — `src/Loop/nestedLoop.java`
-- [`Main`](https://github.com/Boatengadams/Main) — `src/Main.java`
-- [`GetAgeGetName`](https://github.com/Boatengadams/GetAgeGetName) — `src/Methods/GetAgeGetName.java`
-- [`Overloading`](https://github.com/Boatengadams/Overloading) — `src/Methods/Overloading.java`
-- [`PointClass`](https://github.com/Boatengadams/PointClass) — `src/Methods/PointClass.java`
-- [`AccountClass`](https://github.com/Boatengadams/AccountClass) — `src/OOP/AccountClass.java`
-- [`Account`](https://github.com/Boatengadams/Account) — `src/OOP/BANK/Account.java`
-- [`Client`](https://github.com/Boatengadams/Client) — `src/OOP/BANK/Client.java`
-- [`BANK-Main`](https://github.com/Boatengadams/BANK-Main) — `src/OOP/BANK/Main.java`
-- [`Transaction`](https://github.com/Boatengadams/Transaction) — `src/OOP/BANK/Transaction.java`
-- [`OnlineShopping`](https://github.com/Boatengadams/OnlineShopping) — `src/OOP/OnlineShopping.java`
-- [`Person`](https://github.com/Boatengadams/Person) — `src/OOP/Person.java`
-- [`RectangleProgram`](https://github.com/Boatengadams/RectangleProgram) — `src/OOP/RectangleProgram.java`
-- [`UML`](https://github.com/Boatengadams/UML) — `src/OOP/UML.java`
-- [`WaiterList`](https://github.com/Boatengadams/WaiterList) — `src/WaiterList.java`
+| Level | Focus |
+| --- | --- |
+| 1 | Java basics, input, output, strings, and numbers |
+| 2 | Conditions, loops, and problem solving |
+| 3 | Methods and arrays |
+| 4 | Lists and menu driven programs |
+| 5 | Classes, objects, and interfaces |
+| 6 | Restaurant ordering capstone |
+
+## Compile the examples
+
+Install JDK 17 or newer, then compile all examples from the project root:
+
+```sh
+mkdir -p out
+javac --release 17 -d out $(find src -name '*.java')
+```
+
+Run a packaged example by its package and class name. For example:
+
+```sh
+java -cp out Loop.Fibonacci
+```
+
+See [individual class repositories](practice/individual-repositories.md) for the one-class GitHub repositories. Some include supporting classes so they compile on their own.
