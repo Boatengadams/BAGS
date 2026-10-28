@@ -1,8 +1,9 @@
+// Question: How can a program print the even numbers from 1 through 100?
 package Loop;
 //A program that print the even numbers from 1 to 100 in increaseing orther
 
 public class EvenNumbers {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         oneTOHundred();
     }
 

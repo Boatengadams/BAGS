@@ -1,3 +1,4 @@
+// Question: Which movement methods should every game console provide?
 package Console;
 
 public interface GamingConsole {

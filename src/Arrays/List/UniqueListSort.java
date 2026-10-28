@@ -1,3 +1,4 @@
+// Question: How can a program collect unique integers, sort them, and display them?
 package Arrays.List;
 // A program that list the unique element taken from the user. sort and print these elements.
 
@@ -6,7 +7,7 @@ import java.util.Collections;
 import java.util.Scanner;
 
 public class UniqueListSort {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         ArrayList<Integer> integers = new ArrayList<>();
         System.out.println("Enter 5 integers: ");
         Scanner input = new Scanner(System.in);

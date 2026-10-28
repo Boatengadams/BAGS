@@ -1,3 +1,4 @@
+// Question: Which details should a bank transaction record?
 package OOP.BANK;
 //          TRansaction
 //----------------------------------------

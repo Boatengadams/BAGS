@@ -1,10 +1,11 @@
+// Question: How can Arrays.equals compare the contents of two arrays?
 package Arrays.Class;
 
 import java.util.Arrays;
 
 //Using the Arrays.equals(number1, number2);
 public class ComparingArrays {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int[]numbers1={5,4,3,2,1,0,-1};
         int[]numbers2={5,4,3,2,1,0,-1};
         int[]numbers3={1,2,3,7,8,1};

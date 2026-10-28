@@ -1,13 +1,14 @@
+// Question: How can a restaurant program display a menu, record customer orders, and calculate the total?
 import java.util.Scanner;
 //|Create a program display the menu of a resturant to a customer and create and array of customers
 
 // display the customers with the food they ordered
 
-void main(String[] args) {
-    WaiterList.menu();
-}
 public class WaiterList {
 
+    public static void main(String[] args) {
+        menu();
+    }
 
     public static void menu() {
 

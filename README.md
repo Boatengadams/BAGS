@@ -2,7 +2,8 @@
 
 A collection of Java practice programs covering arrays, loops, methods, console games, and object-oriented programming.
 
-Source files are under `src/`; package declarations and folder paths are preserved.
+Source files are under `src/`; Java package declarations match their folder paths.
+The individual repositories are listed below. Repositories with shared types include the support sources needed to compile independently.
 
 ## Individual class repositories
 
@@ -44,7 +45,7 @@ Source files are under `src/`; package declarations and folder paths are preserv
 - [`GetAgeGetName`](https://github.com/Boatengadams/GetAgeGetName) — `src/Methods/GetAgeGetName.java`
 - [`Overloading`](https://github.com/Boatengadams/Overloading) — `src/Methods/Overloading.java`
 - [`PointClass`](https://github.com/Boatengadams/PointClass) — `src/Methods/PointClass.java`
-- [`AccounClass`](https://github.com/Boatengadams/AccounClass) — `src/OOP/AccounClass.java`
+- [`AccountClass`](https://github.com/Boatengadams/AccountClass) — `src/OOP/AccountClass.java`
 - [`Account`](https://github.com/Boatengadams/Account) — `src/OOP/BANK/Account.java`
 - [`Client`](https://github.com/Boatengadams/Client) — `src/OOP/BANK/Client.java`
 - [`BANK-Main`](https://github.com/Boatengadams/BANK-Main) — `src/OOP/BANK/Main.java`

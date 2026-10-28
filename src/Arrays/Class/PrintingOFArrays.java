@@ -1,3 +1,4 @@
+// Question: How can Arrays.toString display array contents after sorting?
 package Arrays.Class;
 import java.util.Arrays;
 //using the Arrays.toString(numbers)
@@ -5,7 +6,7 @@ import java.util.Arrays;
 
 public class PrintingOFArrays {
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
         array();
     }
 

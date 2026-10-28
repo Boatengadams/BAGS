@@ -1,3 +1,4 @@
+// Question: How can an account store its balance and interest rate and process deposits and withdrawals?
 package OOP;
 //    Accout
 //--------------------------
@@ -13,7 +14,7 @@ package OOP;
 
 import java.util.Date;
 
- class AccountClass {
+public class AccountClass {
 
     public static class Account{
         private int id;
@@ -22,9 +23,6 @@ import java.util.Date;
         private Date dateCreated;
 
         public Account() {
-            this.id = id;
-            this.balance = balance;
-            this.annualInterestRate = annualInterestRate;
             this.dateCreated = new Date();
         }
         public boolean withdraw(double amount){
@@ -80,7 +78,7 @@ import java.util.Date;
 //    3. deposiste 300 to the account
 //    4.Print the account's infotmation
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Account yaw = new Account();
         yaw.id = 1122;
         yaw.balance = 20000;

@@ -1,8 +1,9 @@
+// Question: How can a program greet a user by name and age?
 import java.util.Scanner;
 
 public class Adams {
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
     sayHi();
     }
 

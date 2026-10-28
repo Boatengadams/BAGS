@@ -1,3 +1,4 @@
+// Question: How can a game map directional console commands to actions?
 package Console;
 
 public class CheeseGame implements GamingConsole{

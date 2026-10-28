@@ -1,3 +1,4 @@
+// Question: How can a program print a space between each character in a string?
 package Loop;
 
 import java.util.Scanner;
@@ -5,7 +6,7 @@ import java.util.Scanner;
 // A program which displays a string with space after each character
 // some text ==> s o m e t e x t
 public class StringWithSPace {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String str = input.nextLine();
 

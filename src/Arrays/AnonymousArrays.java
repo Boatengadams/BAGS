@@ -1,3 +1,4 @@
+// Question: How can an anonymous array and regular arrays store and print values?
 package Arrays;
 
 import java.util.ArrayList;
@@ -13,7 +14,7 @@ import java.util.ArrayList;
 //    new int[] {1,2,3,4,5,6};
 
 public class AnonymousArrays{
-    static void main(String[] args) {
+    public static void main(String[] args) {
 
         int[] numbers = new int[3];
         numbers[0]=2;

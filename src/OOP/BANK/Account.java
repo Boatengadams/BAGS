@@ -1,3 +1,4 @@
+// Question: How can a bank account track its balance, client, and transactions?
 package OOP.BANK;
 //-balance : double
 //-annualInterestRate : double

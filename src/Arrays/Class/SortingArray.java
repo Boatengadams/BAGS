@@ -1,3 +1,4 @@
+// Question: How can Arrays.sort order arrays and selected ranges?
 package Arrays.Class;
 //Using sort(nameOfArray)
 //Using sort(nameOfArray, fromIndex , toIndex)
@@ -8,7 +9,7 @@ package Arrays.Class;
 import java.util.Arrays;
 
 public class SortingArray {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int[] numbers = { 5,2,3,-1,0,4,1};
         Arrays.sort(numbers, 3, 7);
         char[] characters = {'a','z','b','w','c','A','D'};

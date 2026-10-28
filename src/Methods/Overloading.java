@@ -1,8 +1,9 @@
+// Question: How can methods with the same name accept different parameters?
 package Methods;
 // writing the same method with different parameters
 
 public class Overloading {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         sayHi();
         System.out.println(sayHi("Adams"));
 

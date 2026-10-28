@@ -1,3 +1,4 @@
+// Question: How can ArrayList add, update, remove, and sort values?
 package Arrays.List;
 //A resizable array;
 // use add() method
@@ -11,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class ArrayListInJava {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         ArrayList<Integer> numbers = new ArrayList<>();
         ArrayList<String> names = new ArrayList<>();
         ArrayList<Double> doubles = new ArrayList<>();

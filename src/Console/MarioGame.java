@@ -1,3 +1,4 @@
+// Question: How can a Mario game map directional commands to game actions?
 package Console;
 
 public class MarioGame implements GamingConsole {
