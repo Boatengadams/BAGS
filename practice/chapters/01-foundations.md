@@ -1,4 +1,4 @@
-# Level 1 — Foundations
+# Chapter 1 — Foundations
 
 Learn to read input, store values, and produce clear output.
 
@@ -47,4 +47,4 @@ Ask for a password and compare it with a saved value using string content equali
 - [ ] A wrong password does not trap the program in an endless loop.
 - Stretch: allow three attempts and stop after the last failure.
 
-When these tasks feel comfortable, continue to [Level 2](02-decisions-and-loops.md).
+When these tasks feel comfortable, continue to [Chapter 2](02-decisions-and-loops.md).

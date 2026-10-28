@@ -1,4 +1,4 @@
-# Level 4 — Collections
+# Chapter 4 — Collections
 
 Use `ArrayList` when the number of values can change while the program runs.
 
@@ -28,4 +28,4 @@ Create a menu that adds, removes, displays, and exits a list.
 - [ ] Removing a missing value gives a useful response.
 - Stretch: add options to search, clear, and display the list size.
 
-Continue to [Level 5](05-object-oriented.md).
+Continue to [Chapter 5](05-object-oriented.md).

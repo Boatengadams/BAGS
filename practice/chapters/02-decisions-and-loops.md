@@ -1,4 +1,4 @@
-# Level 2 — Decisions and Loops
+# Chapter 2 — Decisions and Loops
 
 Use conditions and repetition to handle more than one case.
 
@@ -100,4 +100,4 @@ Print a space between every character in the entered string.
 - [ ] `some text` is displayed with a space between each character.
 - Stretch: preserve existing spaces without adding extra ones around them.
 
-Continue to [Level 3](03-methods-and-arrays.md).
+Continue to [Chapter 3](03-methods-and-arrays.md).

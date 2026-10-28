@@ -1,4 +1,4 @@
-# Level 3 — Methods and Arrays
+# Chapter 3 — Methods and Arrays
 
 Break a problem into methods and store related values in arrays.
 
@@ -69,4 +69,4 @@ Create a grid, print rows and columns, and handle rows with different lengths.
 - [ ] Every row and column is displayed correctly.
 - Stretch: calculate each row's total and the grid's total.
 
-Continue to [Level 4](04-collections.md).
+Continue to [Chapter 4](04-collections.md).

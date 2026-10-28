@@ -1,4 +1,4 @@
-# Level 6 — Capstone: Restaurant Orders
+# Chapter 6 — Capstone: Restaurant Orders
 
 Build a restaurant ordering program that combines input, arrays or collections, classes, validation, and totals.
 

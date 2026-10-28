@@ -1,4 +1,4 @@
-# Level 5 — Object-Oriented Programming
+# Chapter 5 — Object-Oriented Programming
 
 Represent a problem with classes, objects, and clear responsibilities.
 
@@ -57,4 +57,4 @@ Represent products and a cart. Add and remove products, then calculate the total
 - [ ] Removing a product updates the total.
 - Stretch: add quantities, stock limits, and a receipt.
 
-Continue to the [Level 6 capstone](06-capstone.md).
+Continue to the [Chapter 6 capstone](06-capstone.md).
